@@ -6,8 +6,6 @@ Solution of LeetCode Problems
 
 This repository has solution of LeetCode problems.
 
-## Getting Started
-
 ### Linked List
 
 | Title        										   														 | Difficulty     |
