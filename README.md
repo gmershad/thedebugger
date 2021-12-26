@@ -1,19 +1,19 @@
-# Project Title
+# The Debugger - LeetCode
 
 Solution of LeetCode Problems
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This repository has solution of LeetCode problems.
 
 ## Getting Started
 
 ### Linked List
 
-| Left-aligned | Difficulty     |
-| :----------- | :------------: | 
-| git status   |   git status   |    
-| git diff     |    git diff    |
+| Title        										   														 | Difficulty     |
+| :--------------------------------------------------------------------------------------------------------- | :------------: | 
+| [2. Add Two Numbers](https://github.com/gmershad/thedebugger/blob/main/Linked%20List/addTwoNumbers.py)   	 |   git status   |    
+
 
 ## Authors
 
