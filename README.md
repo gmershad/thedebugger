@@ -12,7 +12,7 @@ This repository has solution of LeetCode problems.
 
 | Title        										   														 | Difficulty     |
 | :--------------------------------------------------------------------------------------------------------- | :------------: | 
-| [2. Add Two Numbers](https://github.com/gmershad/thedebugger/blob/main/Linked%20List/addTwoNumbers.py)   	 |   git status   |    
+| [2. Add Two Numbers](https://github.com/gmershad/thedebugger/blob/main/Linked%20List/addTwoNumbers.py)   	 |   Easty        |    
 
 
 ## Authors
