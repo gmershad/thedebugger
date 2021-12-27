@@ -86,6 +86,17 @@ This repository has solution of LeetCode problems.
 | [1598. Crawler Log Folder](https://github.com/gmershad/thedebugger/blob/main/Stack/minOperations.py)   	 						|
 | [1700. Number of Students Unable to Eat Lunch](https://github.com/gmershad/thedebugger/blob/main/Stack/countStudents.py)   	 				|
 
+### Queue
+
+| Title        										   														 						|
+| :-------------------------------------------------------------------------------------------------------------------------------- 				|
+| [225. Implement Stack using Queues](https://github.com/gmershad/thedebugger/blob/main/Queue/myStack.py)   	 					 	|
+| [232. Implement Queue using Stacks](https://github.com/gmershad/thedebugger/blob/main/Queue/myQueue.py)   	 					 	|
+| [387. First Unique Character in a String](https://github.com/gmershad/thedebugger/blob/main/Queue/firstUniqChar.py)   	 				|
+| [622. Design Circular Queue](https://github.com/gmershad/thedebugger/blob/main/Queue/myCircularQueue.py)   	 						|
+| [1352. Product of the Last K Numbers](https://github.com/gmershad/thedebugger/blob/main/Queue/productOfNumbers.py)   	 					|
+| [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://github.com/gmershad/thedebugger/blob/main/Queue/longestSubarray.py)|
+| [1700. Number of Students Unable to Eat Lunch](https://github.com/gmershad/thedebugger/blob/main/Queue/countStudents.py)					|
 	
 
 ## Authors
