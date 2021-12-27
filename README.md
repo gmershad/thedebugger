@@ -46,6 +46,46 @@ This repository has solution of LeetCode problems.
 | [1472. Design Browser History](https://github.com/gmershad/thedebugger/blob/main/Linked%20List/browserHistory.py)   	 					|
 | [1669. Merge In Between Linked Lists](https://github.com/gmershad/thedebugger/blob/main/Linked%20List/mergeInBetween.py)   	 				|
 | [1721. Swapping Nodes in a Linked List](https://github.com/gmershad/thedebugger/blob/main/Linked%20List/swapNodes.py)   	 				|
+
+### Stack
+
+| Title        										   														 						|
+| :-------------------------------------------------------------------------------------------------------------------------------- 				|
+| [20. Valid Parentheses](https://github.com/gmershad/thedebugger/blob/main/Stack/validParentheses.py)   	 					 	|
+| [32. Longest Valid Parentheses](https://github.com/gmershad/thedebugger/blob/main/Stack/longestValidParentheses.py)   	 				|
+| [42. Trapping Rain Water](https://github.com/gmershad/thedebugger/blob/main/Stack/trap.py)   	 								|
+| [94. Binary Tree Inorder Traversal](https://github.com/gmershad/thedebugger/blob/main/Stack/inorderTraversal.py)   	 					|
+| [114. Flatten Binary Tree to Linked List](https://github.com/gmershad/thedebugger/blob/main/Stack/flatten.py)   	 					|
+| [143. Reorder List](https://github.com/gmershad/thedebugger/blob/main/Stack/reorderList.py)   	 							|
+| [144. Binary Tree Preorder Traversal](https://github.com/gmershad/thedebugger/blob/main/Stack/preorderTraversal.py)   	 				|
+| [145. Binary Tree Postorder Traversal](https://github.com/gmershad/thedebugger/blob/main/Stack/postorderTraversal.py)   	 				|
+| [150. Evaluate Reverse Polish Notation](https://github.com/gmershad/thedebugger/blob/main/Stack/evalRPN.py)   	 					|
+| [155. Min Stack](https://github.com/gmershad/thedebugger/blob/main/Stack/minStack.py)   	 								|
+| [173. Binary Search Tree Iterator](https://github.com/gmershad/thedebugger/blob/main/Stack/BSTIterator.py)   	 						|
+| [225. Implement Stack using Queues](https://github.com/gmershad/thedebugger/blob/main/Stack/myStack.py)   	 						|
+| [232. Implement Queue using Stacks](https://github.com/gmershad/thedebugger/blob/main/Stack/myQueue.py)   	 						|
+| [234. Palindrome Linked List](https://github.com/gmershad/thedebugger/blob/main/Stack/isPalindrome.py)   	 						|
+| [316. Remove Duplicate Letters](https://github.com/gmershad/thedebugger/blob/main/Stack/removeDuplicateLetters.py)   	 					|
+| [402. Remove K Digits](https://github.com/gmershad/thedebugger/blob/main/Stack/removeKdigits.py)   	 							|
+| [445. Add Two Numbers II](https://github.com/gmershad/thedebugger/blob/main/Stack/addTwoNumbers.py)   	 						|
+| [456. 132 Pattern](https://github.com/gmershad/thedebugger/blob/main/Stack/find132pattern.py)   	 							|
+| [589. N-ary Tree Preorder Traversal](https://github.com/gmershad/thedebugger/blob/main/Stack/preorder.py)   	 						|
+| [590. N-ary Tree Postorder Traversal](https://github.com/gmershad/thedebugger/blob/main/Stack/postorder.py)   	 					|
+| [654. Maximum Binary Tree](https://github.com/gmershad/thedebugger/blob/main/Stack/constructMaximumBinaryTree.py)   	 					|
+| [678. Valid Parenthesis String](https://github.com/gmershad/thedebugger/blob/main/Stack/checkValidString.py)   	 					|
+| [682. Baseball Game](https://github.com/gmershad/thedebugger/blob/main/Stack/calPoints.py)   	 								|
+| [735. Asteroid Collision](https://github.com/gmershad/thedebugger/blob/main/Stack/asteroidCollision.py)   	 						|
+| [739. Daily Temperatures](https://github.com/gmershad/thedebugger/blob/main/Stack/dailyTemperatures.py)   	 						|
+| [844. Backspace String Compare](https://github.com/gmershad/thedebugger/blob/main/Stack/backspaceCompare.py)   	 					|
+| [897. Increasing Order Search Tree](https://github.com/gmershad/thedebugger/blob/main/Stack/increasingBST.py)   	 					|
+| [1008. Construct Binary Search Tree from Preorder Traversal](https://github.com/gmershad/thedebugger/blob/main/Stack/bstFromPreorder.py)   	 		|
+| [1021. Remove Outermost Parentheses](https://github.com/gmershad/thedebugger/blob/main/Stack/removeOuterParentheses.py)   	 				|
+| [1047. Remove All Adjacent Duplicates In String](https://github.com/gmershad/thedebugger/blob/main/Stack/removeDuplicates.py)   	 			|
+| [1441. Build an Array With Stack Operations](https://github.com/gmershad/thedebugger/blob/main/Stack/buildArray.py)   	 				|
+| [1472. Design Browser History](https://github.com/gmershad/thedebugger/blob/main/Stack/browserHistory.py)   	 						|
+| [1598. Crawler Log Folder](https://github.com/gmershad/thedebugger/blob/main/Stack/minOperations.py)   	 						|
+| [1700. Number of Students Unable to Eat Lunch](https://github.com/gmershad/thedebugger/blob/main/Stack/countStudents.py)   	 				|
+
 	
 
 ## Authors
