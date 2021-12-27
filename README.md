@@ -158,6 +158,38 @@ This repository has solution of LeetCode problems.
 | [703. Kth Largest Element in a Stream](https://github.com/gmershad/thedebugger/blob/main/Tree/KthLargest.py)   	 					|
 | [783. Minimum Distance Between BST Nodes](https://github.com/gmershad/thedebugger/blob/main/Tree/minDiffInBST.py)   	 					|
 | [814. Binary Tree Pruning](https://github.com/gmershad/thedebugger/blob/main/Tree/pruneTree.py)   	 							|
+| [865. Smallest Subtree with all the Deepest Nodes](https://github.com/gmershad/thedebugger/blob/main/Tree/subtreeWithAllDeepest.py)   	 		|
+| [872. Leaf-Similar Trees](https://github.com/gmershad/thedebugger/blob/main/Tree/leafSimilar.py)   	 							|
+| [889. Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/gmershad/thedebugger/blob/main/Tree/constructFromPrePost.py)   	 	|
+| [894. All Possible Full Binary Trees](https://github.com/gmershad/thedebugger/blob/main/Tree/allPossibleFBT.py)   	 					|
+| [897. Increasing Order Search Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/increasingBST.py)   	 					|
+| [919. Complete Binary Tree Inserter](https://github.com/gmershad/thedebugger/blob/main/Tree/CBTInserter.py)   	 					|
+| [938. Range Sum of BST](https://github.com/gmershad/thedebugger/blob/main/Tree/rangeSumBST.py)   	 							|
+| [951. Flip Equivalent Binary Trees](https://github.com/gmershad/thedebugger/blob/main/Tree/flipEquiv.py)   	 						|
+| [958. Check Completeness of a Binary Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/isCompleteTree.py)   	 				|
+| [965. Univalued Binary Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/isUnivalTree.py)   	 						|
+| [971. Flip Binary Tree To Match Preorder Traversal](https://github.com/gmershad/thedebugger/blob/main/Tree/flipMatchVoyage.py)   	 			|
+| [979. Distribute Coins in Binary Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/distributeCoins.py)   	 					|
+| [988. Smallest String Starting From Leaf](https://github.com/gmershad/thedebugger/blob/main/Tree/smallestFromLeaf.py)   	 				|
+| [1008. Construct Binary Search Tree from Preorder Traversal](https://github.com/gmershad/thedebugger/blob/main/Tree/bstFromPreorder.py)   	 		|
+| [1022. Sum of Root To Leaf Binary Numbers](https://github.com/gmershad/thedebugger/blob/main/Tree/sumRootToLeaf.py)   	 				|
+| [1026. Maximum Difference Between Node and Ancestor](https://github.com/gmershad/thedebugger/blob/main/Tree/maxAncestorDiff.py)   	 			|
+| [1038. Binary Search Tree to Greater Sum Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/bstToGst.py)   	 					|
+| [1080. Insufficient Nodes in Root to Leaf Paths](https://github.com/gmershad/thedebugger/blob/main/Tree/sufficientSubset.py)   	 			|
+| [1110. Delete Nodes And Return Forest](https://github.com/gmershad/thedebugger/blob/main/Tree/delNodes.py)   	 						|
+| [1123. Lowest Common Ancestor of Deepest Leaves](https://github.com/gmershad/thedebugger/blob/main/Tree/lcaDeepestLeaves.py)   	 			|
+| [1161. Maximum Level Sum of a Binary Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/maxLevelSum.py)   	 					|
+| [1261. Find Elements in a Contaminated Binary Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/findElements.py)   	 			|
+| [1302. Deepest Leaves Sum](https://github.com/gmershad/thedebugger/blob/main/Tree/deepestLeavesSum.py)   	 						|
+| [1305. All Elements in Two Binary Search Trees](https://github.com/gmershad/thedebugger/blob/main/Tree/getAllElements.py)   	 				|
+| [1315. Sum of Nodes with Even-Valued Grandparent](https://github.com/gmershad/thedebugger/blob/main/Tree/sumEvenGrandparent.py)   	 			|
+| [1325. Delete Leaves With a Given Value](https://github.com/gmershad/thedebugger/blob/main/Tree/removeLeafNodes.py)   	 				|
+| [1339. Maximum Product of Splitted Binary Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/maxProduct.py)   	 				|
+| [1367. Linked List in Binary Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/isSubPath.py)   	 						|
+| [1372. Longest ZigZag Path in a Binary Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/longestZigZag.py)   	 				|
+| [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/getTargetCopy.py)   	|
+| [1382. Balance a Binary Search Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/balanceBST.py)   							|
+| [1448. Count Good Nodes in Binary Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/goodNodes.py)   						|
 	
 
 ## Authors
