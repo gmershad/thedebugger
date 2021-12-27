@@ -97,6 +97,67 @@ This repository has solution of LeetCode problems.
 | [1352. Product of the Last K Numbers](https://github.com/gmershad/thedebugger/blob/main/Queue/productOfNumbers.py)   	 					|
 | [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://github.com/gmershad/thedebugger/blob/main/Queue/longestSubarray.py)|
 | [1700. Number of Students Unable to Eat Lunch](https://github.com/gmershad/thedebugger/blob/main/Queue/countStudents.py)					|
+
+### Tree/Binary Tree
+
+| Title        										   														 						|
+| :-------------------------------------------------------------------------------------------------------------------------------- 				|
+| [94. Binary Tree Inorder Traversal](https://github.com/gmershad/thedebugger/blob/main/Tree/inorderTraversal.py)   	 					|
+| [96. Unique Binary Search Trees](https://github.com/gmershad/thedebugger/blob/main/Tree/numTrees.py)   	 						|
+| [98. Validate Binary Search Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/isValidBST.py)   	 						|
+| [99. Recover Binary Search Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/recoverTree.py)   	 						|
+| [100. Same Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/isSameTree.py)   	 								|
+| [101. Symmetric Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/isSymmetric.py)   	 							|
+| [102. Binary Tree Level Order Traversal](https://github.com/gmershad/thedebugger/blob/main/Tree/levelOrder.py)   	 					|
+| [104. Maximum Depth of Binary Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/maxDepth.py)   	 						|
+| [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/gmershad/thedebugger/blob/main/Tree/buildTree.py)   	 		|
+| [106. Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/gmershad/thedebugger/blob/main/Tree/buildTree1.py)   	 		|
+| [108. Convert Sorted Array to Binary Search Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/sortedArrayToBST.py)   	 			|
+| [109. Convert Sorted List to Binary Search Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/sortedArrayToBST.py)   	 			|
+| [110. Balanced Binary Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/isBalanced.py)   	 							|
+| [111. Minimum Depth of Binary Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/minDepth.py)   	 						|
+| [112. Path Sum](https://github.com/gmershad/thedebugger/blob/main/Tree/hasPathSum.py)   	 								|
+| [113. Path Sum II](https://github.com/gmershad/thedebugger/blob/main/Tree/pathSum.py)   	 								|
+| [114. Flatten Binary Tree to Linked List](https://github.com/gmershad/thedebugger/blob/main/Tree/flatten.py)   	 					|
+| [116. Populating Next Right Pointers in Each Node](https://github.com/gmershad/thedebugger/blob/main/Tree/connect.py)   	 				|
+| [117. Populating Next Right Pointers in Each Node II](https://github.com/gmershad/thedebugger/blob/main/Tree/connect1.py)   	 				|
+| [129. Sum Root to Leaf Numbers](https://github.com/gmershad/thedebugger/blob/main/Tree/sumNumbers.py)   	 						|
+| [144. Binary Tree Preorder Traversal](https://github.com/gmershad/thedebugger/blob/main/Tree/preorderTraversal.py)   	 					|
+| [145. Binary Tree Postorder Traversal](https://github.com/gmershad/thedebugger/blob/main/Tree/postorderTraversal.py)   	 				|
+| [173. Binary Search Tree Iterator](https://github.com/gmershad/thedebugger/blob/main/Tree/BSTIterator.py)   	 						|
+| [199. Binary Tree Right Side View](https://github.com/gmershad/thedebugger/blob/main/Tree/rightSideView.py)   	 					|
+| [222. Count Complete Tree Nodes](https://github.com/gmershad/thedebugger/blob/main/Tree/countNodes.py)   	 						|
+| [226. Invert Binary Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/invertTree.py)   	 							|
+| [230. Kth Smallest Element in a BST](https://github.com/gmershad/thedebugger/blob/main/Tree/kthSmallest.py)   	 					|
+| [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/lowestCommonAncestor.py)   	 		|
+| [257. Binary Tree Paths](https://github.com/gmershad/thedebugger/blob/main/Tree/binaryTreePaths.py)   	 						|
+| [337. House Robber III](https://github.com/gmershad/thedebugger/blob/main/Tree/rob.py)   	 								|
+| [404. Sum of Left Leaves](https://github.com/gmershad/thedebugger/blob/main/Tree/sumOfLeftLeaves.py)   	 						|
+| [437. Path Sum III](https://github.com/gmershad/thedebugger/blob/main/Tree/pathSumIII.py)   	 								|
+| [450. Delete Node in a BST](https://github.com/gmershad/thedebugger/blob/main/Tree/deleteNode.py)   	 							|
+| [508. Most Frequent Subtree Sum](https://github.com/gmershad/thedebugger/blob/main/Tree/findFrequentTreeSum.py)   	 					|
+| [513. Find Bottom Left Tree Value](https://github.com/gmershad/thedebugger/blob/main/Tree/findBottomLeftValue.py)   	 					|
+| [515. Find Largest Value in Each Tree Row](https://github.com/gmershad/thedebugger/blob/main/Tree/largestValues.py)   	 				|
+| [530. Minimum Absolute Difference in BST](https://github.com/gmershad/thedebugger/blob/main/Tree/getMinimumDifference.py)   	 				|
+| [543. Diameter of Binary Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/diameterOfBinaryTree.py)   	 					|
+| [559. Maximum Depth of N-ary Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/maxDepth1.py)   	 						|
+| [563. Binary Tree Tilt](https://github.com/gmershad/thedebugger/blob/main/Tree/findTilt.py)   	 							|
+| [572. Subtree of Another Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/isSubtree.py)   	 						|
+| [589. N-ary Tree Preorder Traversal](https://github.com/gmershad/thedebugger/blob/main/Tree/preorder.py)   	 						|
+| [590. N-ary Tree Postorder Traversal](https://github.com/gmershad/thedebugger/blob/main/Tree/postorder.py)   	 						|
+| [606. Construct String from Binary Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/tree2str.py)   	 					|
+| [617. Merge Two Binary Trees](https://github.com/gmershad/thedebugger/blob/main/Tree/mergeTrees.py)   	 						|
+| [623. Add One Row to Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/addOneRow.py)   	 							|
+| [637. Average of Levels in Binary Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/averageOfLevels.py)   	 					|
+| [653. Two Sum IV - Input is a BST](https://github.com/gmershad/thedebugger/blob/main/Tree/findTarget.py)   	 						|
+| [654. Maximum Binary Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/constructMaximumBinaryTree.py)   	 					|
+| [669. Trim a Binary Search Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/trimBST.py)   	 						|
+| [671. Second Minimum Node In a Binary Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/findSecondMinimumValue.py)   	 			|
+| [687. Longest Univalue Path](https://github.com/gmershad/thedebugger/blob/main/Tree/longestUnivaluePath.py)   	 					|
+| [700. Search in a Binary Search Tree](https://github.com/gmershad/thedebugger/blob/main/Tree/searchBST.py)   	 						|
+| [703. Kth Largest Element in a Stream](https://github.com/gmershad/thedebugger/blob/main/Tree/KthLargest.py)   	 					|
+| [783. Minimum Distance Between BST Nodes](https://github.com/gmershad/thedebugger/blob/main/Tree/minDiffInBST.py)   	 					|
+| [814. Binary Tree Pruning](https://github.com/gmershad/thedebugger/blob/main/Tree/pruneTree.py)   	 							|
 	
 
 ## Authors
